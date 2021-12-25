@@ -1,1 +1,1 @@
-# SkyDynamic.github.io
+# This is a Litter Server's Website
